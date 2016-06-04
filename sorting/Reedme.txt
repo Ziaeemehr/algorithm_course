@@ -1,0 +1,7 @@
+1. Single run : contains insertion, merge and quick sort code
+
+2. Timing: contains codes with multiple run.
+
+3. Both categories count the number of comparisions.
+
+4. Result file has two sheet for timing and single run results.
